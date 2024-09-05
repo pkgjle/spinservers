@@ -6,7 +6,7 @@ SpinServers 成立于美国，主要提供高配置、性价比高的独立服�
 ![SpinServers怎么样？SpinServers介绍和测评](https://github.com/user-attachments/assets/e7518682-7d01-43c9-9d4c-ef10728c9be5)
 
 ## SpinServers 官网地址
-SpinServers官网：[https://www.spinservers.com/aff.php?aff=278](https://www.spinservers.com/aff.php?aff=278)
+SpinServers官网：[https://www.spinservers.com](https://www.spinservers.com/aff.php?aff=278)
 
 ## SpinServers 优惠码
 以下为 SpinServers 提供的优惠码，适用于其热门服务器方案，帮助用户以更优惠的价格租用高性能服务器：
